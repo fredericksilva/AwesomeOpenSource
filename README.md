@@ -10,9 +10,11 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 -  [Swift](https://github.com/awesomeopensource/awesomeopensource#swift)
 
 #### Javascript
+[gianarb/awesome-angularjs](https://github.com/gianarb/awesome-angularjs) <br>
+[wbkd/awesome-d3](https://github.com/wbkd/awesome-d3) <br>
 [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) <br>
 [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
-[wbkd/awesome-d3](https://github.com/wbkd/awesome-d3)
+
 
 
 #### Mobile (Android/iOS)
