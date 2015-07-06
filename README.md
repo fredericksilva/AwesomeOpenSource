@@ -15,8 +15,6 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) <br>
 [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 
-
-
 #### Mobile (Android/iOS)
 [https://github.com/danielgomezrico/Awesome-Mobile](https://github.com/danielgomezrico/Awesome-Mobile)
 
@@ -49,3 +47,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 
 #### PaaS, SaaS, IaaS
 [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
+#### Answers, Speaking
+[jugoncalves/awesome-answers](https://github.com/jugoncalves/awesome-answers)
+[matteofigus/awesome-speaking](https://github.com/awesome-speaking)
+
