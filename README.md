@@ -9,6 +9,9 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 -  [Mac OS X](https://github.com/awesomeopensource/awesomeopensource#mac-os-x)
 -  [Swift](https://github.com/awesomeopensource/awesomeopensource#swift)
 
+#### Javascript
+[awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+
 #### Mobile (Android/iOS)
 [https://github.com/danielgomezrico/Awesome-Mobile](https://github.com/danielgomezrico/Awesome-Mobile)
 
