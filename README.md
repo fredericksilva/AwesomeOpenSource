@@ -12,6 +12,7 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 #### Javascript
 [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) <br>
 [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+[wbkd/awesome-d3](https://github.com/wbkd/awesome-d3)
 
 #### Mobile (Android/iOS)
 [https://github.com/danielgomezrico/Awesome-Mobile](https://github.com/danielgomezrico/Awesome-Mobile)
