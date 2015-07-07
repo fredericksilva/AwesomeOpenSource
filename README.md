@@ -10,6 +10,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 -  [Swift](https://github.com/awesomeopensource/awesomeopensource#swift)
 
 #### Javascript
+[gianarb/awesome-angularjs](https://github.com/gianarb/awesome-angularjs) <br>
+[wbkd/awesome-d3](https://github.com/wbkd/awesome-d3) <br>
 [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) <br>
 [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 
@@ -45,3 +47,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 
 #### PaaS, SaaS, IaaS
 [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
+#### Answers, Speaking
+[jugoncalves/awesome-answers](https://github.com/jugoncalves/awesome-answers)
+[matteofigus/awesome-speaking](https://github.com/awesome-speaking)
+
