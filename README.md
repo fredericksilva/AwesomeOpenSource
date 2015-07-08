@@ -49,6 +49,6 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 #### Answers, Speaking
-[jugoncalves/awesome-answers](https://github.com/jugoncalves/awesome-answers)
-[matteofigus/awesome-speaking](https://github.com/awesome-speaking)
+[jugoncalves/awesome-answers](https://github.com/jugoncalves/awesome-answers) <br>
+[matteofigus/awesome-speaking](https://github.com/awesome-speaking) <br>
 
