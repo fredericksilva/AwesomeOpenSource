@@ -62,6 +62,6 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 [Awesome Java](https://github.com/akullpp/awesome-java#websites)		
 
 #### Answers, Speaking
-[jugoncalves/awesome-answers](https://github.com/jugoncalves/awesome-answers)
-[matteofigus/awesome-speaking](https://github.com/awesome-speaking)
+[jugoncalves/awesome-answers](https://github.com/jugoncalves/awesome-answers) <br>
+[matteofigus/awesome-speaking](https://github.com/awesome-speaking) <br>
 
