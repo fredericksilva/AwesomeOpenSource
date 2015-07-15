@@ -30,6 +30,9 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 [joeljfischer/awesome-apple](https://github.com/joeljfischer/awesome-apple) <br>
 [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
 
+### SVG
+[willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
+
 #### Swift
 [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) <br>
 [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift)
@@ -51,4 +54,11 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 #### Answers, Speaking
 [jugoncalves/awesome-answers](https://github.com/jugoncalves/awesome-answers)
 [matteofigus/awesome-speaking](https://github.com/awesome-speaking)
+
+### Web Components
+[obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
+
+### Flexbox
+[afonsopacifer/awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox)
+
 
