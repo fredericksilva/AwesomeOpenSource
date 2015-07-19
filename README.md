@@ -63,3 +63,5 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 
 ### Bitcoin
 [igorbarinov/awesome-bitcoin](https://github.com-igorbarinov/awesome-bitcoin)
+
+---
