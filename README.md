@@ -61,4 +61,7 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 ### Flexbox
 [afonsopacifer/awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 
+### Bitcoin
+[igorbarinov/awesome-bitcoin](https://github.com-igorbarinov/awesome-bitcoin)
 
+---
