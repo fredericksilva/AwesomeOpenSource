@@ -24,6 +24,9 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) <br>
 [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 
+#### Big Data
+[okulbilisim/awesome-datascience](https://github.com/okulbilisim/awesome-datascience)
+
 #### iOS
 [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) <br>
 [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) <br>
