@@ -43,6 +43,9 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 #### GitHub
 [Kikobeats/awesome-github](https://github.com/Kikobeats/awesome-github)
 
+#### Go
+[avelino/awesome-go](https://github.com/avelino/awesome-go)
+
 #### Mac OS X
 [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) <br>
 [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) <br>
