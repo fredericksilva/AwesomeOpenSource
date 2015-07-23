@@ -43,6 +43,9 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 #### GitHub
 [Kikobeats/awesome-github](https://github.com/Kikobeats/awesome-github)
 
+#### GO
+[avelino/awesome-go](https://github.com/avelino/awesome-go)
+
 #### Mac OS X
 [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) <br>
 [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) <br>
@@ -51,9 +54,22 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 #### PaaS, SaaS, IaaS
 [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
+#### PHP
+		
+[PHP Books](https://github.com/ziadoz/awesome-php#php-books)		
+[PHP Videos](https://github.com/ziadoz/awesome-php#php-videos)		
+[PHP Reading](https://github.com/ziadoz/awesome-php#php-reading)		
+[PHP Websites](https://github.com/ziadoz/awesome-php#php-websites)		
+[Others Sites](https://github.com/ziadoz/awesome-php#other-websites)
+
+#### Java
+	
+[Influential Books](https://github.com/akullpp/awesome-java#influential-books)		
+[Awesome Java](https://github.com/akullpp/awesome-java#websites)		
+
 #### Answers, Speaking
-[jugoncalves/awesome-answers](https://github.com/jugoncalves/awesome-answers)
-[matteofigus/awesome-speaking](https://github.com/awesome-speaking)
+[jugoncalves/awesome-answers](https://github.com/jugoncalves/awesome-answers) <br>
+[matteofigus/awesome-speaking](https://github.com/awesome-speaking) <br>
 
 ### Web Components
 [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
